@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="nodeckware.svg">
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4549">
+      <stop
+         style="stop-color:#f6f6f6;stop-opacity:1"
+         offset="0"
+         id="stop4545" />
+      <stop
+         style="stop-color:#737373;stop-opacity:1"
+         offset="1"
+         id="stop4547" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4549"
+       id="radialGradient4551"
+       cx="104.06763"
+       cy="149.56439"
+       fx="104.06763"
+       fy="149.56439"
+       r="62.324539"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.596195,0,0,3.9005856,-166.11223,-433.82433)" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4633622"
+     inkscape:cx="626.88418"
+     inkscape:cy="482.17731"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="2560"
+     inkscape:window-height="1377"
+     inkscape:window-x="1192"
+     inkscape:window-y="192"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <circle
+       style="opacity:1;fill:url(#radialGradient4551);fill-opacity:1;stroke:#808080;stroke-width:0.39263082;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4504"
+       cx="104.06763"
+       cy="149.56439"
+       r="62.128223"
+       inkscape:export-xdpi="203.77"
+       inkscape:export-ydpi="203.77" />
+    <circle
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#d40000;stroke-width:14;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4510"
+       cx="104.06763"
+       cy="149.56439"
+       r="45.899666"
+       inkscape:export-xdpi="203.77"
+       inkscape:export-ydpi="203.77" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:11.4546566px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.2863664px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="20.388813"
+       y="171.17473"
+       id="text4508"
+       transform="rotate(-8.7596988)"
+       inkscape:export-xdpi="203.77"
+       inkscape:export-ydpi="203.77"><tspan
+         sodipodi:role="line"
+         id="tspan4506"
+         x="20.388813"
+         y="171.17473"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:27.49117661px;font-family:Arial;-inkscape-font-specification:'Arial Bold Condensed';letter-spacing:-1.40033185px;stroke-width:0.2863664px">DECKWARE</tspan></text>
+    <rect
+       y="180.03929"
+       x="-44.683231"
+       height="7.6017017"
+       width="99.113495"
+       id="rect4526"
+       style="opacity:1;fill:#d40000;fill-opacity:1;stroke:#aa0000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       transform="matrix(0.84334422,-0.53737373,0.55851666,0.8294933,0,0)"
+       inkscape:export-xdpi="203.77"
+       inkscape:export-ydpi="203.77" />
+  </g>
+</svg>
